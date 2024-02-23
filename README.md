@@ -1,6 +1,6 @@
 # News Article Summary App
 ## Overview
-The News Article Summary App is a Streamlit web application designed to fetch news articles from a given URL, summarize the content of the articles using BART (Bidirectional and Auto-Regressive Transformers) model, and perform sentiment analysis on the summarized text. The application also provides text classification based on trending keywords to identify whether an article is considered "hot" or not.
+The News Article Summary App is a Streamlit web application designed to fetch news articles from a given URL, summarize the content of the articles using BART (Bidirectional and Auto-Regressive Transformers) model, and perform analysis on the summarized text. The application also provides text classification based on trending keywords to identify whether an article is considered "hot" or not.
 
 ## Features
 - **Fetch News:** Users can input a URL to fetch news articles from various sources.
